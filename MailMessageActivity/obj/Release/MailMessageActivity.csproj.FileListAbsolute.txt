@@ -1,0 +1,6 @@
+C:\Users\sifhameed\source\repos\UiPathActivities\MailMessageActivity\bin\Release\HashCode.MailMessageActivities.dll
+C:\Users\sifhameed\source\repos\UiPathActivities\MailMessageActivity\bin\Release\HashCode.MailMessageActivities.pdb
+C:\Users\sifhameed\source\repos\UiPathActivities\MailMessageActivity\obj\Release\MailMessageActivity.csprojAssemblyReference.cache
+C:\Users\sifhameed\source\repos\UiPathActivities\MailMessageActivity\obj\Release\MailMessageActivity.csproj.CoreCompileInputs.cache
+C:\Users\sifhameed\source\repos\UiPathActivities\MailMessageActivity\obj\Release\HashCode.MailMessageActivities.dll
+C:\Users\sifhameed\source\repos\UiPathActivities\MailMessageActivity\obj\Release\HashCode.MailMessageActivities.pdb

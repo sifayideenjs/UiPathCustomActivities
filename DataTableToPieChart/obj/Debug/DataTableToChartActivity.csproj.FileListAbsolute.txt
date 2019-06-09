@@ -1,0 +1,9 @@
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTableToPieChart\bin\Debug\DataTableToChartActivity.dll
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTableToPieChart\bin\Debug\DataTableToChartActivity.pdb
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTableToPieChart\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTableToPieChart\bin\Debug\stdole.dll
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTableToPieChart\obj\Debug\DataTableToChartActivity.csprojAssemblyReference.cache
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTableToPieChart\obj\Debug\DataTableToChartActivity.csproj.CoreCompileInputs.cache
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTableToPieChart\obj\Debug\DataTableToChartActivity.csproj.CopyComplete
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTableToPieChart\obj\Debug\DataTableToChartActivity.dll
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTableToPieChart\obj\Debug\DataTableToChartActivity.pdb

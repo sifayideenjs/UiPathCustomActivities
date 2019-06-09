@@ -1,0 +1,6 @@
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTable\bin\Debug\Etisalat.Programming.DataTable.dll
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTable\bin\Debug\Etisalat.Programming.DataTable.pdb
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTable\obj\Debug\DataTable.csprojAssemblyReference.cache
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTable\obj\Debug\DataTable.csproj.CoreCompileInputs.cache
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTable\obj\Debug\Etisalat.Programming.DataTable.dll
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTable\obj\Debug\Etisalat.Programming.DataTable.pdb

@@ -1,0 +1,6 @@
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTable\obj\Release\DataTable.csproj.CoreCompileInputs.cache
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTable\bin\Release\Etisalat.CIT.OPS.Robotics.Reporting.dll
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTable\bin\Release\Etisalat.CIT.OPS.Robotics.Reporting.pdb
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTable\obj\Release\Etisalat.CIT.OPS.Robotics.Reporting.dll
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTable\obj\Release\Etisalat.CIT.OPS.Robotics.Reporting.pdb
+C:\Users\sifhameed\source\repos\UiPathActivities\DataTable\obj\Release\DataTable.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\sifhameed\source\repos\UiPathActivities\QueueActivity\bin\Release\Etisalat.CIT.OPS.Robotics.QueueActivity.dll
+C:\Users\sifhameed\source\repos\UiPathActivities\QueueActivity\bin\Release\Etisalat.CIT.OPS.Robotics.QueueActivity.pdb
+C:\Users\sifhameed\source\repos\UiPathActivities\QueueActivity\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\sifhameed\source\repos\UiPathActivities\QueueActivity\bin\Release\System.IO.Packaging.dll
+C:\Users\sifhameed\source\repos\UiPathActivities\QueueActivity\bin\Release\RestSharp.dll
+C:\Users\sifhameed\source\repos\UiPathActivities\QueueActivity\bin\Release\Newtonsoft.Json.dll
+C:\Users\sifhameed\source\repos\UiPathActivities\QueueActivity\bin\Release\RestSharp.xml
+C:\Users\sifhameed\source\repos\UiPathActivities\QueueActivity\bin\Release\Newtonsoft.Json.xml
+C:\Users\sifhameed\source\repos\UiPathActivities\QueueActivity\obj\Release\QueueActivity.csproj.CoreCompileInputs.cache
+C:\Users\sifhameed\source\repos\UiPathActivities\QueueActivity\obj\Release\QueueActivity.csproj.CopyComplete
+C:\Users\sifhameed\source\repos\UiPathActivities\QueueActivity\obj\Release\Etisalat.CIT.OPS.Robotics.QueueActivity.dll
+C:\Users\sifhameed\source\repos\UiPathActivities\QueueActivity\obj\Release\Etisalat.CIT.OPS.Robotics.QueueActivity.pdb
+C:\Users\sifhameed\source\repos\UiPathActivities\QueueActivity\obj\Release\QueueActivity.csprojAssemblyReference.cache

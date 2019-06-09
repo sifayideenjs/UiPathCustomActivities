@@ -1,0 +1,5 @@
+C:\Users\sifhameed\source\repos\UiPathActivities\SecureStringConverter\obj\Release\SecureStringConverter.csproj.CoreCompileInputs.cache
+C:\Users\sifhameed\source\repos\UiPathActivities\SecureStringConverter\bin\Release\HashCode.SecureStringConverter.Activities.dll
+C:\Users\sifhameed\source\repos\UiPathActivities\SecureStringConverter\bin\Release\HashCode.SecureStringConverter.Activities.pdb
+C:\Users\sifhameed\source\repos\UiPathActivities\SecureStringConverter\obj\Release\HashCode.SecureStringConverter.Activities.dll
+C:\Users\sifhameed\source\repos\UiPathActivities\SecureStringConverter\obj\Release\HashCode.SecureStringConverter.Activities.pdb
